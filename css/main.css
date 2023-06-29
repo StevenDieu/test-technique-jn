@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'DIN-Black';
+    src: url('../assets/fonts/DINRoundPro-Black.ttf') format('truetype');
+}
+ul {
+    list-style-type: none;
+  }
+
+#offre {
+    color: #FB3CEE;
+    size: 29px;
+    position: absolute;
+    top: 5px;
+    left: 18px;
+    width: 88px;
+    height: 37px;
+}
+
+#offre1 {
+    position: absolute;
+    top: 15px;
+    left: 514px;
+    width: 115px;
+    height: 18px;
+    font-family: 'DIN-Black';
+    size: 14.5px;
+    background: #3300CC;
+    border-radius: 30px;
+    color: #FFFFFF;
+}
+
+#offre2 {
+    position: absolute;
+    font-family: 'DIN-Black';
+    border-radius: 30px;
+    color: #FFFFFF;
+}
+
+#offre2 {
+    font-size: 14.5px;
+    position: absolute;
+    font-family: 'DIN-Black';
+    border-radius: 22px;
+    background-color: #FF6600;
+    color: #FFFFFF;
+    top: 15px;
+    left: 713px;
+    width: 40px;
+    height: 18px;
+}
+
+#offre3 {
+    position: absolute;
+    top: 15px;
+    left: 827px;
+    width: 40px;
+    height: 18px;
+    font-family: 'DIN-Black';
+    font-size: 14.5px;
+    background-color: #7364FD;
+    border-radius: 22PX;
+    color: #FFFFFF;
+}
+
+#offre4 {
+    position: absolute;
+    font-family: 'DIN-Black';
+    border-radius: 30px;
+    background-color: #FB3CEE;
+    color: #FFFFFF;
+    top: 15px;
+    left: 954px;
+    width: 50px;
+    height: 18px
+}
+
+#offre5 {
+    position: absolute;
+    font-family: 'DIN-Black';
+    border-radius: 30px;
+    background-color: #44E5FA;
+    color: #FFFFFF;
+    top: 15px;
+    left: 1084px;
+    width: 75px;
+    height: 18px;
+}
+
+#offre6 {
+    position: absolute;
+    top: 13px;
+    left: 1199px;
+    width: 22px;
+    height: 22px;
+
+}
+#offre7 {
+    position: absolute;
+    top: 6px;
+left: 1266px;
+width: 89px;
+height: 35px;
+
+}
