@@ -2,9 +2,21 @@
     font-family: 'DIN-Black';
     src: url('../assets/fonts/DINRoundPro-Black.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'DIN-Medi';
+    src: url('../assets/fonts/DINRoundPro-Medi.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DIN-Bold';
+    src: url('../assets/fonts/DINRoundPro-Bold.ttf') format('truetype');
+}
+
+
 ul {
     list-style-type: none;
-  }
+}
 
 #offre {
     color: #FB3CEE;
@@ -29,12 +41,6 @@ ul {
     color: #FFFFFF;
 }
 
-#offre2 {
-    position: absolute;
-    font-family: 'DIN-Black';
-    border-radius: 30px;
-    color: #FFFFFF;
-}
 
 #offre2 {
     font-size: 14.5px;
@@ -94,11 +100,134 @@ ul {
     height: 22px;
 
 }
+
 #offre7 {
     position: absolute;
     top: 6px;
-left: 1266px;
-width: 89px;
-height: 35px;
+    left: 1266px;
+    width: 89px;
+    height: 35px;
+}
 
+.spectaculaire {
+    position: absolute;
+    top: 50px;
+    color: #FB3CEE;
+    font-size: 29px;
+}
+
+#borderPink1 {
+    position: absolute;
+    top: 199px;
+    left: 32px;
+    width: 60px;
+    height: 15px;
+    width: 60px;
+    background-color: #FB3CEE;
+    border-radius: 30px;
+}
+
+#COD {
+    position: absolute;
+    top: 223px;
+    left: 125px;
+    width: 117px;
+    height: 46px;
+    color: #3300CC;
+    size: 22px;
+    font-family: 'DIN-Medi';
+}
+
+#Saint-Lazare {
+    position: absolute;
+    top: 310px;
+    left: 35px;
+    width: 298px;
+    height: 26px;
+    font-family: 'DIN-Black';
+    color: #FFFFFF;
+    background-color: #3300CC;
+    border-radius: 30px;
+    size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+#COD1 {
+    position: absolute;
+    top: 365px;
+    left: 66px;
+    width: 78px;
+    height: 105px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+#COD1 h3 {
+    font-family: 'DIN-Black';
+}
+
+#COD1>p {
+    font-family: 'DIN-Bold';
+}
+
+#COD2 {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    position: absolute;
+    top: 495px;
+    left: 66px;
+    width: 78px;
+    height: 105px;
+}
+
+#COD2>h3 {
+    font-family: 'DIN-Bold';
+}
+
+#COD2>p {
+    font-family: 'DIN-Black';
+}
+
+#COD3 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 578px;
+    left: 61px;
+    width: 62px;
+    height: 41px;
+    gap: 50px;
+}
+
+#COD3>p {
+    font-family: 'DIN-Black';
+}
+
+#COD3>h3 {
+    font-family: 'DIN-Bold';
+}
+
+#borderPink2 {
+    position: absolute;
+    top: 670px;
+left: 316px;
+width: 30px;
+height: 0px;
+    height: 15px;
+    width: 60px;
+    background-color: #FB3CEE;
+    border-radius: 30px;
+}
+
+.gif {
+    width: 1073px;
+    height: 714px;
+    position: absolute;
+    top: 54px;
+left: 565px;
+width: 1073px;
+height: 714px;
 }
